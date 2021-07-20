@@ -1,0 +1,35 @@
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\bin\Debug\Virtual Assistance Teaching.exe.config
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\bin\Debug\Virtual Assistance Teaching.exe
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\bin\Debug\Virtual Assistance Teaching.pdb
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual Assistance Teaching.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Dashboard.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Form1.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual Assistance Teaching.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual Assistance Teaching.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual Assistance Teaching.exe
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual Assistance Teaching.pdb
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\bin\Debug\Interop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Interop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual Assistance Teaching.csproj.ResolveComReference.cache
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Subjects.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Videos.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Student_reg.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Educational.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Learners.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Administrator.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Learner_s_Deletition.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Learner_Educational_Del.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Learner_Info_Del.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Login.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Administration.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Attendance.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Documents_Upload.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Previous_Question_Paper.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Authorized_reg.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Unauthorised.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Assignment.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Assignment_For_Learners.resources
+C:\Users\Clearance Morumudi\source\repos\Virtual Assistance Teaching\Virtual Assistance Teaching\obj\Debug\Virtual_Assistance_Teaching.Admin.resources
